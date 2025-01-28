@@ -28,6 +28,8 @@ A clone of the popular Flappy Bird game, developed using HTML, CSS, and JavaScri
 
 Get in Touch
 GitHub
+LinkedIn
+Twitter
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 Thanks for stopping by!
